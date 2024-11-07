@@ -112,4 +112,8 @@ impl Token {
 
         Ok(access_token)
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f5d9c85 (initial commit)

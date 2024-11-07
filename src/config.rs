@@ -1,5 +1,8 @@
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f5d9c85 (initial commit)
 use serde::{Deserialize, Serialize};
 
 #[derive(Default, Debug, Serialize, Deserialize, Clone)]
